@@ -1,4 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil. 👋
+
+meu nome é Matheus Eduardo dos reis lopes 🥇
+- Estou aprendendo a programar com a plataforma Alura 📸
+- Me interessam as linguagens de programação: JavaScript e Scratch. 🥇
+- Tábem estou aprendendo as linguagens de marcação: HTML e CSS.🏀
+- Utilizo este espaço para salvar meus projetos e compartilhar meus codigos . 🧺
+
+  ### Meu e-mail para contato é
+  
+  reis.lopes.matheus@escola.pr.gov.br
 
 <!--
 **Matheus20008/Matheus20008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
